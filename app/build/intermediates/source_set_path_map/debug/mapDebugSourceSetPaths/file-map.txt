@@ -1,0 +1,33 @@
+com.example.mlkitdemo.app-play-services-base-18.5.0-0 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\0074f09d8b47d02d00ea665cb07e423e\workspace\transformed\play-services-base-18.5.0\res
+com.example.mlkitdemo.app-core-ktx-1.13.1-1 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\021bd4d1b338f9b5dd0e4f2850bbc739\workspace\transformed\core-ktx-1.13.1\res
+com.example.mlkitdemo.app-startup-runtime-1.1.1-2 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\096fa55aa8de75470ccae2b57377d227\workspace\transformed\startup-runtime-1.1.1\res
+com.example.mlkitdemo.app-lifecycle-process-2.6.2-3 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\0b32c69ec3a753e781684b2dfa966fa2\workspace\transformed\lifecycle-process-2.6.2\res
+com.example.mlkitdemo.app-savedstate-1.2.1-4 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\10eef8111b066ebb9a3ba442459ea027\workspace\transformed\savedstate-1.2.1\res
+com.example.mlkitdemo.app-fragment-1.5.4-5 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\17d827b941bfd3fdb5166a2ce86f3fad\workspace\transformed\fragment-1.5.4\res
+com.example.mlkitdemo.app-camera-core-1.3.4-6 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\1a9c20e29d74967a4164b2303733e645\workspace\transformed\camera-core-1.3.4\res
+com.example.mlkitdemo.app-camera-video-1.3.4-7 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\2054ffc79b2f01682567f90072d24cfc\workspace\transformed\camera-video-1.3.4\res
+com.example.mlkitdemo.app-emoji2-1.3.0-8 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\2cc83d8acd32530004d1ad1473419568\workspace\transformed\emoji2-1.3.0\res
+com.example.mlkitdemo.app-lifecycle-viewmodel-2.6.2-9 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\380f7830bb0f8b70d052508527cf5c2f\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.mlkitdemo.app-appcompat-resources-1.7.0-10 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\676ea5563d46a02919f3678411a6db21\workspace\transformed\appcompat-resources-1.7.0\res
+com.example.mlkitdemo.app-annotation-experimental-1.4.0-11 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\7cf86d60cff5074e0ebff5caff223ad2\workspace\transformed\annotation-experimental-1.4.0\res
+com.example.mlkitdemo.app-activity-1.7.0-12 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\7f60f052682582565a74568a3b93f6b5\workspace\transformed\activity-1.7.0\res
+com.example.mlkitdemo.app-lifecycle-livedata-2.6.2-13 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\836ad5965290a7080f2d8ce35e5927e9\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.example.mlkitdemo.app-camera-view-1.3.4-14 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\83c8deed07b2bae79ef9f58712ef22ec\workspace\transformed\camera-view-1.3.4\res
+com.example.mlkitdemo.app-play-services-basement-18.4.0-15 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\857577bcc87ebb02b4cf4a3aaf4b90db\workspace\transformed\play-services-basement-18.4.0\res
+com.example.mlkitdemo.app-lifecycle-runtime-2.6.2-16 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\85a05081c9dd0034a8c80c1fdc87686e\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.example.mlkitdemo.app-lifecycle-livedata-core-2.6.2-17 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\8f6d1050b5d0a71e77b66941d96b29b5\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.mlkitdemo.app-core-runtime-2.2.0-18 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\a0eb77771c82fd0410693b083d1ef6e9\workspace\transformed\core-runtime-2.2.0\res
+com.example.mlkitdemo.app-lifecycle-viewmodel-savedstate-2.6.2-19 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\b7a4ee5a737bcd4642333c5498994139\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.mlkitdemo.app-camera-lifecycle-1.3.4-20 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\bd02f442e5e71f95f280f902df378247\workspace\transformed\camera-lifecycle-1.3.4\res
+com.example.mlkitdemo.app-emoji2-views-helper-1.3.0-21 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\c3d181f348460c14fa6a71486a17d01a\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.example.mlkitdemo.app-profileinstaller-1.3.1-22 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\d4caf73fc51262b908236cbdb5a0639e\workspace\transformed\profileinstaller-1.3.1\res
+com.example.mlkitdemo.app-camera-camera2-1.3.4-23 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\d890d062dd462125a5fcf63c502b1fae\workspace\transformed\camera-camera2-1.3.4\res
+com.example.mlkitdemo.app-appcompat-1.7.0-24 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\d90d087ed3da7625c5e0617227401676\workspace\transformed\appcompat-1.7.0\res
+com.example.mlkitdemo.app-core-1.13.1-25 C:\Users\vgzar\.gradle\caches\9.3.0\transforms\fbc493c8e1b9bb2916ee6ad60b4859f2\workspace\transformed\core-1.13.1\res
+com.example.mlkitdemo.app-pngs-26 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\build\generated\res\pngs\debug
+com.example.mlkitdemo.app-resValues-27 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\build\generated\res\resValues\debug
+com.example.mlkitdemo.app-packageDebugResources-28 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mlkitdemo.app-packageDebugResources-29 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mlkitdemo.app-debug-30 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mlkitdemo.app-debug-31 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\src\debug\res
+com.example.mlkitdemo.app-main-32 C:\Users\vgzar\Documents\UdeA\COMPUTACION MOVIL\MLKitDemo\app\src\main\res

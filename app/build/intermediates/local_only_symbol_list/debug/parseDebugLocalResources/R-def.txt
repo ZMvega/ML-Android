@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id previewView
+id resultText
+layout activity_main
+string app_name
+string detectando
+string permiso_requerido
+string sin_deteccion
+style Theme.MLKitDemo
