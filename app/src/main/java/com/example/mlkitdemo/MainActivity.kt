@@ -24,7 +24,6 @@ import java.util.concurrent.Executors
 
 
 //CameraX para imagen de cámara, ML Kit para clasificar la imagen, on-device
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var previewView: PreviewView
